@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map for Sphero
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Bluetooth	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+beginCMD	KEYWORD2
+endCMD	KEYWORD2
+connect	KEYWORD2
+connectToAddr	KEYWORD2
+isConnected	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
