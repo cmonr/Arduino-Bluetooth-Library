@@ -1,4 +1,6 @@
 Arduino-Bluetooth-Library
 =========================
 
-RN-41/2 
+License: https://creativecommons.org/licenses/by/4.0/
+
+RN-41/2
